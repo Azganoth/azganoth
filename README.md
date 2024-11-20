@@ -1,16 +1,55 @@
-### Hi there 👋
+# Oi, eu sou o Ademir! 🙂
 
-<!--
-**Azganoth/azganoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredito na evolução contínua e estou sempre buscando entregar projetos otimizados e de alta qualidade.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack 🛠️
+
+### Linguagens
+
+![HTML5](./Badges/HTML5.png)
+![CSS3](./Badges/CSS3.png)
+![JavaScript](./Badges/JavaScript.png)
+![TypeScript](./Badges/TypeScript.png)
+![Python](./Badges/Python.png)
+
+### Front-end
+
+![React](./Badges/React.png)
+![Next](./Badges/Next.png)
+![Vue](./Badges/Vue.png)
+![TailwindCSS](./Badges/TailwindCSS.png)
+![SASS](./Badges/SASS.png)
+![Styled Components](./Badges/StyledComponents.png)
+
+### Back-end
+
+![Node](./Badges/Node.png)
+![Docker](./Badges/Docker.png)
+![PostgreSQL](./Badges/PostgreSQL.png)
+![MongoDB](./Badges/MongoDB.png)
+
+### Testes
+
+![Jest](./Badges/Jest.png)
+![Vitest](./Badges/Vitest.png)
+![Testing Library](./Badges/Testing_Library.png)
+![Cypress](./Badges/Cypress.png)
+
+### Ferramentas
+
+![Git](./Badges/Git.png)
+![GitHub](./Badges/GitHub.png)
+![GitHub Actions](./Badges/GitHub_Actions.png)
+![Figma](./Badges/Figma.png)
+
+*e mais...*
+
+## Contato 📞
+
+[![Gmail](./Icons/Gmail.png)](mailto:ademirj.ferreirajunior@gmail.com) &nbsp;&nbsp;
+[![Whatsapp](./Icons/Whatsapp.png)](https://wa.me/48991984443) &nbsp;&nbsp;
+[![LinkedIn](./Icons/LinkedIn.png)](https://www.linkedin.com/in/ademirjferreirajunior/)
+
+</div>
