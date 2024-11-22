@@ -1,6 +1,6 @@
 # Oi, eu sou o Ademir! 🙂
 
-Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredito na evolução contínua e estou sempre buscando entregar projetos otimizados e de alta qualidade.
+Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredito que a evolução deve ser constante e me desafio a entregar projetos cada vez melhores.
 
 <div align="center">
 
@@ -19,14 +19,17 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ![React](./Badges/React.png)
 ![Next](./Badges/Next.png)
 ![Vue](./Badges/Vue.png)
-![TailwindCSS](./Badges/TailwindCSS.png)
+![Astro](./Badges/Astro.png)
+
 ![SASS](./Badges/SASS.png)
+![TailwindCSS](./Badges/TailwindCSS.png)
 ![Styled Components](./Badges/StyledComponents.png)
 
 ### Back-end
 
 ![Node](./Badges/Node.png)
 ![Docker](./Badges/Docker.png)
+
 ![PostgreSQL](./Badges/PostgreSQL.png)
 ![MongoDB](./Badges/MongoDB.png)
 
@@ -42,6 +45,7 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ![Git](./Badges/Git.png)
 ![GitHub](./Badges/GitHub.png)
 ![GitHub Actions](./Badges/GitHub_Actions.png)
+
 ![Figma](./Badges/Figma.png)
 
 *e mais...*
