@@ -1,6 +1,6 @@
 # Oi, eu sou o Ademir! 🙂
 
-Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredito que a evolução deve ser constante e me desafio a entregar projetos cada vez melhores.
+Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredito que a evolução deve ser constante e me desafio a entregar projetos cada vez melhores e acessíveis a todos.
 
 <div align="center">
 
@@ -49,6 +49,8 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ![Figma](./Badges/Figma.png)
 
 *e mais...*
+
+[Currículo](./Docs/curriculo.pdf)
 
 ## Contato 📞
 
