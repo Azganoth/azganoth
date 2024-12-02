@@ -4,6 +4,8 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 
 <div align="center">
 
+[Portfólio](https://azganoth.github.io/)
+
 ## Stack 🛠️
 
 ### Linguagens
@@ -50,7 +52,7 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 
 *e mais...*
 
-[Currículo](./Docs/curriculo.pdf)
+[Currículo](https://azganoth.github.io/curriculo.pdf)
 
 ## Contato 📞
 
