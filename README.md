@@ -19,10 +19,10 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ### Front-end
 
 ![React](./Badges/React.png)
-![Next](./Badges/Next.png)
 ![Vue](./Badges/Vue.png)
+![Svelte](./Badges/Svelte.png)
 ![Astro](./Badges/Astro.png)
-
+![Next](./Badges/Next.png)
 ![SASS](./Badges/SASS.png)
 ![TailwindCSS](./Badges/TailwindCSS.png)
 ![Styled Components](./Badges/StyledComponents.png)
@@ -31,9 +31,9 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 
 ![Node](./Badges/Node.png)
 ![Docker](./Badges/Docker.png)
-
 ![PostgreSQL](./Badges/PostgreSQL.png)
 ![MongoDB](./Badges/MongoDB.png)
+![Contentful](./Badges/Contentful.png)
 
 ### Testes
 
@@ -41,13 +41,12 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ![Vitest](./Badges/Vitest.png)
 ![Testing Library](./Badges/Testing_Library.png)
 ![Cypress](./Badges/Cypress.png)
+![Storybook](./Badges/Storybook.png)
 
 ### Ferramentas
 
 ![Git](./Badges/Git.png)
 ![GitHub](./Badges/GitHub.png)
-![GitHub Actions](./Badges/GitHub_Actions.png)
-
 ![Figma](./Badges/Figma.png)
 
 *e mais...*
