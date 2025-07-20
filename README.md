@@ -10,8 +10,8 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 
 ### Linguagens
 
-![HTML5](./Badges/HTML5.png)
-![CSS3](./Badges/CSS3.png)
+![HTML](./Badges/HTML.png)
+![CSS](./Badges/CSS.png)
 ![JavaScript](./Badges/JavaScript.png)
 ![TypeScript](./Badges/TypeScript.png)
 ![Python](./Badges/Python.png)
@@ -19,21 +19,18 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ### Front-end
 
 ![React](./Badges/React.png)
+![Next](./Badges/Next.png)
 ![Vue](./Badges/Vue.png)
 ![Svelte](./Badges/Svelte.png)
-![Astro](./Badges/Astro.png)
-![Next](./Badges/Next.png)
 ![SASS](./Badges/SASS.png)
 ![TailwindCSS](./Badges/TailwindCSS.png)
-![Styled Components](./Badges/StyledComponents.png)
 
 ### Back-end
 
 ![Node](./Badges/Node.png)
-![Docker](./Badges/Docker.png)
 ![PostgreSQL](./Badges/PostgreSQL.png)
 ![MongoDB](./Badges/MongoDB.png)
-![Contentful](./Badges/Contentful.png)
+![Prisma](./Badges/Prisma.png)
 
 ### Testes
 
@@ -42,16 +39,18 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ![Testing Library](./Badges/Testing_Library.png)
 ![Cypress](./Badges/Cypress.png)
 ![Storybook](./Badges/Storybook.png)
+![Postman](./Badges/Postman.png)
 
-### Ferramentas
+### Ferramentas & DevOps
 
 ![Git](./Badges/Git.png)
 ![GitHub](./Badges/GitHub.png)
+![Docker](./Badges/Docker.png)
 ![Figma](./Badges/Figma.png)
 
 *e mais...*
 
-[Currículo](https://azganoth.github.io/curriculo.pdf)
+[Currículo](https://azganoth.vercel.app/cv.pdf)
 
 ## Contato 📞
 
