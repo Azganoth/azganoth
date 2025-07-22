@@ -14,13 +14,11 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ![CSS](./Badges/CSS.png)
 ![JavaScript](./Badges/JavaScript.png)
 ![TypeScript](./Badges/TypeScript.png)
-![Python](./Badges/Python.png)
 
 ### Front-end
 
 ![React](./Badges/React.png)
 ![Next](./Badges/Next.png)
-![Vue](./Badges/Vue.png)
 ![Svelte](./Badges/Svelte.png)
 ![SASS](./Badges/SASS.png)
 ![TailwindCSS](./Badges/TailwindCSS.png)
@@ -29,7 +27,6 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 
 ![Node](./Badges/Node.png)
 ![PostgreSQL](./Badges/PostgreSQL.png)
-![MongoDB](./Badges/MongoDB.png)
 ![Prisma](./Badges/Prisma.png)
 
 ### Testes
@@ -37,7 +34,6 @@ Sou um desenvolvedor web full-stack formado em Ciência da Computação. Acredit
 ![Jest](./Badges/Jest.png)
 ![Vitest](./Badges/Vitest.png)
 ![Testing Library](./Badges/Testing_Library.png)
-![Cypress](./Badges/Cypress.png)
 ![Storybook](./Badges/Storybook.png)
 ![Postman](./Badges/Postman.png)
 
