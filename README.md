@@ -72,41 +72,26 @@
 
 ## ✨ Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/Azganoth/portfolio" target="_blank">Portfolio Pessoal</a>
-      </h3>
-      <p>
-        Portfolio pessoal interativo para demonstrar minhas habilidades e projetos, utilizando SvelteKit e TypeScript. O site possui um design imersivo com fundo animado, gerenciamento de conteúdo simplificado através de arquivos Markdown e foco na experiência de usuário. <a href="https://azganoth.vercel.app/" target="_blank">Acesse o site</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/Azganoth/tree-sitter-lua" target="_blank">Tree Sitter Lua</a>
-      </h3>
-      <p>
-        Gramática completa da linguagem Lua (5.4) para o parser Tree-sitter. Inclui um scanner externo em C para regras complexas e gera bindings para Node.js, Rust e Swift, sendo consumível em múltiplos ecossistemas.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/Azganoth/nexus" target="_blank">Nexus</a>
-      </h3>
-      <p>
-        Plataforma full-stack completa para gerenciamento de links, com dashboard interativo, autenticação segura e pré-visualização em tempo real. Utiliza Next.js, React, TypeScript, Node.js, Express, Prisma, e o deploy é automatizado com Docker e GitHub Actions. <a href="https://nexusapp.fly.dev/" target="_blank">Acesse o site</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/Azganoth/simple-motion-react" target="_blank">Simple Motion React</a>
-      </h3>
-      <p>
-        Biblioteca de animação declarativa para React com zero dependências, inspirada na API de transição do Vue. O código possui cobertura de testes completa com Jest e Testing Library, componentes documentados com Storybook e processo de build e publicação no NPM automatizado. <a href="https://simple-motion-react.vercel.app/" target="_blank">Acesse a documentação</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  <a href="https://github.com/Azganoth/portfolio" target="_blank">Portfolio Pessoal</a>
+</h3>
+
+Portfolio pessoal interativo para demonstrar minhas habilidades e projetos, utilizando SvelteKit e TypeScript. O site possui um design imersivo com fundo animado, gerenciamento de conteúdo simplificado através de arquivos Markdown e foco na experiência de usuário. [Acesse o site](https://azganoth.vercel.app/)
+
+<h3 align="center">
+  <a href="https://github.com/Azganoth/tree-sitter-lua" target="_blank">Tree Sitter Lua</a>
+</h3>
+
+Gramática completa da linguagem Lua (5.4) para o parser Tree-sitter. Inclui um scanner externo em C para regras complexas e gera bindings para Node.js, Rust e Swift, sendo consumível em múltiplos ecossistemas.
+
+<h3 align="center">
+  <a href="https://github.com/Azganoth/nexus" target="_blank">Nexus</a>
+</h3>
+
+Plataforma full-stack completa para gerenciamento de links, com dashboard interativo, autenticação segura e pré-visualização em tempo real. Utiliza Next.js, React, TypeScript, Node.js, Express, Prisma, e o deploy é automatizado com Docker e GitHub Actions. [Acesse o site](https://nexusapp.fly.dev/)
+
+<h3 align="center">
+  <a href="https://github.com/Azganoth/simple-motion-react" target="_blank">Simple Motion React</a>
+</h3>
+
+Biblioteca de animação declarativa para React com zero dependências, inspirada na API de transição do Vue. O código possui cobertura de testes completa com Jest e Testing Library, componentes documentados com Storybook e processo de build e publicação no NPM automatizado. [Acesse a documentação](https://simple-motion-react.vercel.app/)
