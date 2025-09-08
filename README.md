@@ -30,6 +30,7 @@
   <img src="./Badges/CSS.png" alt="CSS"/>
   <img src="./Badges/JavaScript.png" alt="JavaScript"/>
   <img src="./Badges/TypeScript.png" alt="TypeScript"/>
+  <img src="./Badges/Python.png" alt="Python"/>
 </div>
 
 ### Front-end
