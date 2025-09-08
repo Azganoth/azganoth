@@ -5,6 +5,9 @@
 </p>
 
 <div align="center">
+  <a href="https://azganoth.vercel.app/" target="_blank">
+    <img src="./Badges/Portfolio.png" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/ademirjferreirajunior/" target="_blank">
     <img src="./Badges/LinkedIn.png" alt="LinkedIn"/>
   </a>
@@ -22,7 +25,7 @@
 
 ### Linguagens
 
-<div style="display: flex; gap: 8px">
+<div>
   <img src="./Badges/HTML.png" alt="HTML"/>
   <img src="./Badges/CSS.png" alt="CSS"/>
   <img src="./Badges/JavaScript.png" alt="JavaScript"/>
@@ -31,7 +34,7 @@
 
 ### Front-end
 
-<div style="display: flex; gap: 8px">
+<div>
   <img src="./Badges/React.png" alt="React"/>
   <img src="./Badges/Next.png" alt="Next"/>
   <img src="./Badges/Vue.png" alt="Vue"/>
@@ -42,17 +45,18 @@
 
 ### Back-end
 
-<div style="display: flex; gap: 8px">
+<div>
   <img src="./Badges/Node.png" alt="Node"/>
   <img src="./Badges/PostgreSQL.png" alt="PostgreSQL"/>
   <img src="./Badges/MongoDB.png" alt="MongoDB"/>
   <img src="./Badges/Prisma.png" alt="Prisma"/>
   <img src="./Badges/Mongoose.png" alt="Mongoose"/>
+  <img src="./Badges/GraphQL.png" alt="GraphQL"/>
 </div>
 
 ### Testes
 
-<div style="display: flex; gap: 8px">
+<div>
   <img src="./Badges/Jest.png" alt="Jest"/>
   <img src="./Badges/Vitest.png" alt="Vitest"/>
   <img src="./Badges/TestingLibrary.png" alt="TestingLibrary"/>
@@ -63,7 +67,7 @@
 
 ### Ferramentas & DevOps
 
-<div style="display: flex; gap: 8px">
+<div>
   <img src="./Badges/Git.png" alt="Git"/>
   <img src="./Badges/GitHub.png" alt="GitHub"/>
   <img src="./Badges/Docker.png" alt="Docker"/>
