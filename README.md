@@ -18,8 +18,11 @@
 
 ## 🚀 Sobre Mim
 
-- 🔭 Sou um **Engenheiro de Software** com sólida formação em Ciência da Computação, focado na criação de aplicações web robustas e escaláveis.
-- 🌱 Atualmente aprofundando meus conhecimentos em **arquitetura de software** e **sistemas distribuídos**, enquanto exploro o desenvolvimento de aplicações mobile, desktop, integração IA e novas tecnologias do ecossistema web.
+- 🔭 Sou um **Engenheiro de Software** com sólida formação em Ciência da
+  Computação, focado na criação de aplicações web robustas e escaláveis.
+- 🌱 Atualmente aprofundando meus conhecimentos em **arquitetura de software** e
+  **sistemas distribuídos**, enquanto exploro o desenvolvimento de aplicações
+  mobile, desktop, integração IA e novas tecnologias do ecossistema web.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -31,6 +34,7 @@
   <img src="./Badges/JavaScript.png" alt="JavaScript"/>
   <img src="./Badges/TypeScript.png" alt="TypeScript"/>
   <img src="./Badges/Python.png" alt="Python"/>
+  <img src="./Badges/Rust.png" alt="Python"/>
 </div>
 
 ### Front-end
@@ -61,9 +65,7 @@
   <img src="./Badges/Jest.png" alt="Jest"/>
   <img src="./Badges/Vitest.png" alt="Vitest"/>
   <img src="./Badges/TestingLibrary.png" alt="TestingLibrary"/>
-  <img src="./Badges/Cypress.png" alt="Cypress"/>
   <img src="./Badges/Storybook.png" alt="Storybook"/>
-  <img src="./Badges/Postman.png" alt="Postman"/>
 </div>
 
 ### Ferramentas & DevOps
