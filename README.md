@@ -1,7 +1,7 @@
-<h1 align="center">Oi, eu sou o Ademir! 👋</h1>
+<h1 align="center">Hi, I'm Ademir! 👋</h1>
 
 <p align="center">
-  Sou um engenheiro de software apaixonado por criar soluções inovadoras e acessíveis. Com formação em Ciência da Computação, busco constantemente aprimorar minhas habilidades e entregar projetos de alta qualidade.
+  Software Engineer
 </p>
 
 <div align="center">
@@ -15,14 +15,6 @@
     <img src="./Badges/Gmail.png" alt="Gmail"/>
   </a>
 </div>
-
-## 🚀 Sobre Mim
-
-- 🔭 Sou um **Engenheiro de Software** com sólida formação em Ciência da
-  Computação, focado na criação de aplicações web robustas e escaláveis.
-- 🌱 Atualmente aprofundando meus conhecimentos em **arquitetura de software** e
-  **sistemas distribuídos**, enquanto exploro o desenvolvimento de aplicações
-  mobile, desktop, integração IA e novas tecnologias do ecossistema web.
 
 ## 🛠️ Tecnologias e Ferramentas
 
